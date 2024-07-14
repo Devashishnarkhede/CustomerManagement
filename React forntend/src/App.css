@@ -1,0 +1,17 @@
+* {
+    margin: none;
+    padding: none;
+}
+
+.fw-bolder {
+
+    margin: 50px;
+    padding: 10px;
+
+    border: 2px solid rgb(10, 10, 57);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+time-heading {
+    color: rgb(39, 204, 204);
+}
